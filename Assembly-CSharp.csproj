@@ -48,6 +48,8 @@
      <Compile Include="Assets\Scripts\Scene-AnimationController\playerController.cs" />
      <Compile Include="Assets\Scripts\Scene-CameraCollision\CameraCollision.cs" />
      <Compile Include="Assets\Scripts\Scene-CameraCollision\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Scene-ThirdPersonController\ThirdPersonCameraController.cs" />
+     <Compile Include="Assets\Scripts\Scene-ThirdPersonController\ThirdPersonCharacterController.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/2019.3.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
